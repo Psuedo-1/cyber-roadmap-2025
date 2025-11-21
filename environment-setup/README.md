@@ -13,11 +13,11 @@ This project documents all commands and tools installed for my macOS cybersecuri
 - AWS CLI
 
 ## Commands Used
-git add .
-git commit -m "Added full 12-month cybersecurity & cloud roadmap"
-git push
-code ~/cyber_projects/cyber-roadmap-2025
-cd ~/cyber_projects/cyber-roadmap-2025
-mkdir -p environment-setup/docs
-mkdir -p environment-setup/scripts
-touch environment-setup/README.md
+- git add .
+- git commit -m "Added full 12-month cybersecurity & cloud roadmap"
+- git push
+- code ~/cyber_projects/cyber-roadmap-2025
+- cd ~/cyber_projects/cyber-roadmap-2025
+- mkdir -p environment-setup/docs
+- mkdir -p environment-setup/scripts
+- touch environment-setup/README.md
