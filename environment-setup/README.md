@@ -23,3 +23,14 @@ This project documents all commands and tools installed for my macOS cybersecuri
 - touch environment-setup/README.md
 - python3 log_monitor.py
 - echo -e "Login successful\nLogin failed\nFailed password attempt" > test.log
+
+## Network Mapper Results
+- Subnet scanned: 10.x.x.x/20
+- Number of devices found: (count from your CSV)
+- CSV saved to docs/network_scan.csv
+
+## Hardening Notes
+- Avoid exposing unnecessary ports on local devices
+- Use strong router admin passwords
+- Disable unused services
+- Regularly scan your own network for unknown devices
