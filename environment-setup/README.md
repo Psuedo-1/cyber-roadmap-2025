@@ -21,3 +21,5 @@ This project documents all commands and tools installed for my macOS cybersecuri
 - mkdir -p environment-setup/docs
 - mkdir -p environment-setup/scripts
 - touch environment-setup/README.md
+- python3 log_monitor.py
+- echo -e "Login successful\nLogin failed\nFailed password attempt" > test.log
